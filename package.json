@@ -1,0 +1,23 @@
+{
+  "name": "spots",
+  "version": "0.0.0",
+  "description": "spots",
+  "main": "build/server/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/royvandewater/spots"
+  },
+  "keywords": [
+    "spots",
+    "coffeescript"
+  ],
+  "author": "Roy van de Water",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
